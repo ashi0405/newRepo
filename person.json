@@ -1,0 +1,9 @@
+[
+  { "name": "ABC", "balance": 5000, "email": "abc@gmail.com" },
+  { "name": "ABC1", "balance": 5000, "email": "1abc@gmail.com" },
+  { "name": "ABC2", "balance": 5000, "email": "2abc@gmail.com" },
+  { "name": "ABC3", "balance": 5000, "email": "3abc@gmail.com" },
+  { "name": "ABC4", "balance": 5000, "email": "4abc@gmail.com" },
+  { "name": "ABC5", "balance": 5000, "email": "5abc@gmail.com" },
+  { "name": "ABC6", "balance": 5000, "email": "6abc@gmail.com" }
+]
